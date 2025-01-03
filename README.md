@@ -3,7 +3,14 @@ Cara pengunaan Buka Tools di Termux/Kali Linux Setelah itu cd Spam-WhatsApp-Unli
 Tools Spam WhatsApp Unlimited , Di Buat Untuk Mengerjai Penipu 
 install tools di berikut ⬇️
 
-https://github.com/admin8712/Spam-WhatsApp-Unlimited.git
+git clone https://github.com/admin8712/Spam-WhatsApp-Unlimited.git
 
+cd Spam-WhatsApp-Unlimited
+
+nano setting.py
+#masukan nomer target di tools lalu save
+
+#Jalankan File
+python Spam.py
 
 Gunakan Tools ini dengan bijak , Saya sengaja buat Tools ini hanya unutk mengerjai Penipu dan di Luar itu Saya tidak bertanggung Jawab atas tindakan ilegal apapun Terimakasih .
