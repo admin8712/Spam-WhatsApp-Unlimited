@@ -15,4 +15,13 @@ nano setting.py
 
 python Spam.py
 
+
+jika Api Key Tools ➡️ expired
+
+bisa hubungi saya melalui email saya ➡️ rurihaliza92@gmail.com 
+
+💯% FREE
+
 Gunakan Tools ini dengan bijak , Saya sengaja buat Tools ini hanya unutk mengerjai Penipu dan di Luar itu Saya tidak bertanggung Jawab atas tindakan ilegal apapun Terimakasih .
+
+🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
