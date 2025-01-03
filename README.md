@@ -16,7 +16,7 @@ nano setting.py
 python Spam.py
 
 
-jika Api Key Tools ➡️ expired
+if Api Key Tools ➡️ expired
 
 bisa hubungi saya melalui email saya ➡️ rurihaliza92@gmail.com 
 
