@@ -15,6 +15,7 @@ nano setting.py
 
 python Spam.py
 
+untuk berhenti ketik CTRL + z
 
 Jika Api Key Tools ➡️ expired
 
