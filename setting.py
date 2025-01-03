@@ -4,7 +4,7 @@ url = "https://whatsva.com/api/sendMessageText"
 
 data = {
     "message": "WARNING !!!",
-    "jid":"PASANG NOMOR KORBAN DI SINI",
+    "jid":"085922993819",
     "apikey": "4YwLki3nduP8"
 }
 
@@ -13,9 +13,10 @@ headers = {
     'Content-Type': 'application/json'
 }
 
-response = requests.request("POST", url, headers=headers, data>
+response = requests.request("POST", url, headers=headers, data=payload)
 
-print("")                                                      print("")
+print("")
+print("")
 
 print("➡️ Terkirim ... ✅")
 
