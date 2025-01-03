@@ -4,7 +4,7 @@ try:
   url = "https://whatsva.com/api/sendMessageText"
   data = {
     "message": "WARNING !!!",
-    "jid":"085922993819",
+    "jid":"TARUK DI SINI NOMOR WHATSAPP KORBAN BRO",
     "apikey": "4YwLki3nduP8"
 
   }
