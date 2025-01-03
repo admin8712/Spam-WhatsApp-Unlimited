@@ -32,6 +32,8 @@ print ("💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠
 
 print ("")
 print ("")
+print ("PASANG DULU NOMOR TARGETNYA BRO DI setting.py")
+print ("")
 
 data = input ("tekan enter untuk memmulai : _")
 
