@@ -1,4 +1,5 @@
 # Spam-WhatsApp-Unlimited
+Cara pengunaan Buka Tools di Termux/Kali Linux Setelah itu cd Spam-WhatsApp-Unlimited / nano setting.py setelah itu masukan nomer korban dan save ,setelah itu jalan kan tools nya dengan python Spam.py
 Tools Spam WhatsApp Unlimited , Di Buat Untuk Mengerjai Penipu 
 install tools di berikut ⬇️
 
