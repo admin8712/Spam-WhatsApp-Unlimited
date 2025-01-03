@@ -24,4 +24,4 @@ bisa hubungi saya melalui email saya ➡️ rurihaliza92@gmail.com
 
 Gunakan Tools ini dengan bijak , Saya sengaja buat Tools ini hanya unutk mengerjai Penipu dan di Luar itu Saya tidak bertanggung Jawab atas tindakan ilegal apapun Terimakasih .
 
-🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
+🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
