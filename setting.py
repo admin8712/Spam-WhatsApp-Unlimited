@@ -18,3 +18,8 @@ response = requests.request("POST", url, headers=headers, data>
 print("")                                                      print("")
 
 print("➡️ Terkirim ... ✅")
+
+os.system("clear")
+
+time.sleep(-0)
+os.system("python setting.py")
