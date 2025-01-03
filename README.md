@@ -8,6 +8,7 @@ git clone https://github.com/admin8712/Spam-WhatsApp-Unlimited.git
 cd Spam-WhatsApp-Unlimited
 
 nano setting.py
+
 #masukan nomer target di tools lalu save
 
 #Jalankan File
