@@ -12,6 +12,7 @@ nano setting.py
 #masukan nomer target di tools lalu save
 
 #Jalankan File
+
 python Spam.py
 
 Gunakan Tools ini dengan bijak , Saya sengaja buat Tools ini hanya unutk mengerjai Penipu dan di Luar itu Saya tidak bertanggung Jawab atas tindakan ilegal apapun Terimakasih .
