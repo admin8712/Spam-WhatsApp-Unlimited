@@ -18,6 +18,6 @@ bisa hubungi saya melalui email saya ➡️ rurihaliza92@gmail.com
 
 Peringatan !!
 
-Gunakan Tools ini dengan bijak , Kami Tidak Bertanggung jawab atas tindakan ilegal apa pun yang anda lakukan denga Tools ini .
+Gunakan Tools ini dengan bijak , Kami Tidak Bertanggung jawab atas tindakan ilegal apa pun yang anda lakukan dengan Tools ini .
 
 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
